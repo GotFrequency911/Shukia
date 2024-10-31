@@ -1,0 +1,21 @@
+2024-10-23 11:02:29,142 - INFO - Successfully connected to MySQL database
+2024-10-23 11:02:29,218 - INFO - 127.0.0.1 - - [23/Oct/2024 11:02:29] "GET /api/stocks HTTP/1.1" 200 -
+2024-10-23 11:07:29,148 - INFO - Successfully connected to MySQL database
+2024-10-23 11:07:29,198 - INFO - 127.0.0.1 - - [23/Oct/2024 11:07:29] "GET /api/stocks HTTP/1.1" 200 -
+2024-10-23 11:12:23,779 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 11:12:23,783 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-23 11:12:23,784 - INFO -  * Restarting with stat
+2024-10-23 11:12:26,137 - WARNING -  * Debugger is active!
+2024-10-23 11:12:26,147 - INFO -  * Debugger PIN: 791-125-865
+2024-10-23 11:12:29,272 - INFO - 127.0.0.1 - - [23/Oct/2024 11:12:29] "GET / HTTP/1.1" 200 -
+2024-10-23 11:12:29,468 - INFO - Successfully connected to MySQL database
+2024-10-23 11:12:29,489 - INFO - 127.0.0.1 - - [23/Oct/2024 11:12:29] "GET /api/stocks HTTP/1.1" 200 -
+2024-10-23 11:12:29,508 - INFO - Successfully connected to MySQL database
+2024-10-23 11:12:29,550 - INFO - 127.0.0.1 - - [23/Oct/2024 11:12:29] "GET /api/stocks HTTP/1.1" 200 -
+2024-10-23 11:12:33,999 - INFO - 127.0.0.1 - - [23/Oct/2024 11:12:33] "[35m[1mPOST /api/analyze HTTP/1.1[0m" 500 -
+2024-10-23 11:12:36,669 - INFO - 127.0.0.1 - - [23/Oct/2024 11:12:36] "[35m[1mPOST /api/analyze HTTP/1.1[0m" 500 -
+2024-10-23 11:12:56,126 - INFO -  * Detected change in 'c:\\Users\\kashy\\OneDrive\\Desktop\\prok\\mysql-connector.py', reloading
+2024-10-23 11:12:56,315 - INFO -  * Restarting with stat
+2024-10-23 11:12:58,467 - WARNING -  * Debugger is active!
+2024-10-23 11:12:58,472 - INFO -  * Debugger PIN: 791-125-865
